@@ -1,5 +1,5 @@
 # Memory Card Game:
-Created a 2D memory game using Unity framework. It's a *complete* game.
+Created a 2D memory game. It's a *complete* game.
 
 # Technologies Used:
 C#, Unity2D, and Unity Editor.
